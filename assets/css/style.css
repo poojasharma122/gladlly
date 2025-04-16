@@ -370,7 +370,7 @@ p.lead-text a {
   box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
   border-radius: 10px;
   box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
-  height: 450px;
+  height: 100%;
 }
 
 .hotel-text {
@@ -1393,7 +1393,9 @@ button.close-text-button:hover svg {
   font-size: 1.25rem;
 }
 
-
+.budget-hotel-text {
+  padding: 40px 10px;
+}
         /* Tp section  CSS Start*/
         .mobile-view {
           display: none;
