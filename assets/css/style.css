@@ -1301,13 +1301,16 @@ p.lead-text a {
   color: #000;
 }
 
-.night-stay,
-.hotel-price {
+.night-stay {
   font-size: 16px;
   margin: 5px 0;
   display: none;
 }
 
+.hotel-price {
+  font-size: 16px;
+  margin: 5px 0;
+}
 .amenities-list {
   list-style-type: none;
   padding: 0;
