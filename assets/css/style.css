@@ -522,7 +522,7 @@ p.lead-text a {
   align-items: center;
   position: relative;
   background-attachment: fixed;
-  margin-bottom: 60px;
+  /* margin-bottom: 60px; */
 }
 
 .signup::before {
