@@ -1282,9 +1282,10 @@ p.lead-text a {
 .hotel-section {
   border: 1px solid #ddd;
   padding: 20px;
-  text-align: center;
+  /* text-align: center; */
   font-family: Arial, sans-serif;
   height: 100%;
+  border-radius: 10px;
 }
 
 .hotel-image {
@@ -1303,12 +1304,14 @@ p.lead-text a {
 .hotel-price {
   font-size: 16px;
   margin: 5px 0;
+  display: none;
 }
 
 .amenities-list {
   list-style-type: none;
   padding: 0;
   margin: 15px 0;
+  display: none;
 }
 
 .amenities-list li {
@@ -1318,18 +1321,21 @@ p.lead-text a {
   border-radius: 5px;
 }
 
-.description {
+.description{
+  
+}
+/* .description {
   font-size: 14px;
   color: #555;
   margin-top: 15px;
   display: none;
-}
+} */
 
 .text-close {
   margin-top: 10px;
   display: flex;
   flex-direction: column;
-  align-items: start;
+  align-items: flex-start;
   gap: 8px;
 }
 
@@ -1344,6 +1350,7 @@ button.close-text-button {
   padding: 5px 10px;
   font-size: 14px;
   margin-top: 9px;
+  display: none;
 }
 
 button.close-text-button:hover svg {
