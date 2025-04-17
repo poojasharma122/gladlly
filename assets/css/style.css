@@ -1400,6 +1400,26 @@ button.close-text-button:hover svg {
 .budget-hotel-text {
   padding: 40px 10px;
 }
+
+.heading_image{
+  height: 25px;
+  width: 25px;
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+
+
+
+
+
+
+
+
+
         /* Tp section  CSS Start*/
         .mobile-view {
           display: none;
