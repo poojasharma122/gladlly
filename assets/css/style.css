@@ -956,8 +956,8 @@ p.lead-text a {
   font-size: 1rem;
   font-weight: 400;
   margin-bottom: 0.5rem;
-  margin-left: 2rem;
-  list-style: disc;
+  margin-left: 1rem;
+  
 }
 
 .infoSec_content .infoSec_listTick li {
@@ -1271,7 +1271,7 @@ p.lead-text a {
   text-align: center;
   text-transform: capitalize;
   font-weight: 700;
-  line-height: 30px;
+  line-height: 40px;
 }
 
 /* top budget hotel las vegas section start */
