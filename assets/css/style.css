@@ -957,7 +957,7 @@ p.lead-text a {
   font-weight: 400;
   margin-bottom: 0.5rem;
   margin-left: 1rem;
-  
+  list-style: bullet;
 }
 
 .infoSec_content .infoSec_listTick li {
