@@ -223,6 +223,9 @@
         height: 250px;
         margin-bottom: 2rem;
     }
+    .top-hotel-second {
+        margin-top: 0;
+    }
 }
 
 @media(max-width:575px) {
