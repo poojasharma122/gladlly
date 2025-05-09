@@ -1287,6 +1287,7 @@ p.lead-text a {
   font-family: Arial, sans-serif;
   height: 100%;
   border-radius: 10px;
+  
 }
 
 .hotel-image {
@@ -1361,9 +1362,7 @@ button.close-text-button:hover svg {
   fill: #3e5541;
 }
 
-.top-hotel-second {
-  margin-top: 25px;
-}
+
 
 /* top budget hotel las vegas section end */
 
